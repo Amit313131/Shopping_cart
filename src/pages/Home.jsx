@@ -41,7 +41,7 @@ const Home = () => {
           }
         </div>) :
         <div className="w-screen h-screen flex justify-center items-center">
-          <p className="font-bold">No Data Found</p>
+          <p className="font-bold">No Data Found !</p>
         </div> 
       }
     </div>
